@@ -179,7 +179,7 @@ const Text_Input = () => {
         </div>
 
         {/* Separator */}
-        <div className="text-white text-center my-4 text-lg">or</div>
+        <div className="text-white text-center my-4 text-lg"> or</div>
 
         {/* File Upload Section */}
         <div className="w-full max-w-4xl mx-auto border-[3px] rounded-2xl text-center px-6 py-8 border-dotted border-[#3E5063] mt-6">
